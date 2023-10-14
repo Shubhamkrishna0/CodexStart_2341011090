@@ -1,5 +1,5 @@
 //NAME:- SHUBHAM KRISHNA
-//REGISTRATION NO. :- 234101
+//REGISTRATION NO. :- 2341011090
 //Problem Statement Link :- https://cses.fi/problemset/task/1083/
 
 import java.io.IOException;
