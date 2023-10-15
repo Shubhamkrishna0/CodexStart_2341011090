@@ -2,7 +2,7 @@
 
 //REGISTRATION NO. :- 2341011090
 
-//Problem Statement Link :-https://cses.fi/problemset/task/1072
+//Problem Statement Link :- https://cses.fi/problemset/task/1070
 
 import java.util.Scanner;
 
