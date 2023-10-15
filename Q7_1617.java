@@ -1,3 +1,9 @@
+//NAME:- SHUBHAM KRISHNA
+//REGISTRATION NO. :- 2341011090
+//Problem Statement Link :- https://cses.fi/problemset/task/1617
+
+
+
 import java.util.Scanner;
 
 public class Q7_1617 {
