@@ -6,13 +6,13 @@ public class Q8_1618 {
         int n = scanner.nextInt();
         scanner.close();
 
-        // Count the number of trailing zeros in n!
+        // Counting the number of trailing zeros in factorial n!
         int count = 0;
         for (int i = 5; n / i >= 1; i *= 5) {
             count += n / i;
         }
 
-        // Output the result
+        //result
         System.out.println(count);
     }
 }
